@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class InformationSociety extends Component {
+class ServiceRequestPopup extends Component {
     render() {
         return (
             <div>
@@ -10,4 +10,4 @@ class InformationSociety extends Component {
     }
 }
 
-export default InformationSociety;
+export default ServiceRequestPopup;

@@ -3,6 +3,7 @@ import { IonButton , IonToast, useIonToast} from "@ionic/react";
 import InformationSociety from './components/playground/InformationSociety';
 import CBHHeader from './components/CBHHeader';
 import CBHMain from './components/CBHMain';
+import ServiceRequestPopup from './components/playground/ServiceRequestPopup';
 function App() {
   // const handleClick = () => {
   //   console.log("Clicked!");
